@@ -1,0 +1,7 @@
+[2026-11-07T22:11:04Z] === AST ITERATION 1 START | repo=huggingface/dataset-viewer sha=fb279f65 ===
+[2026-11-07T22:11:04Z] [iter=1] PHASE START: ast repo=huggingface/dataset-viewer sha=fb279f65
+[2026-11-07T22:11:04Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T22:15:04Z] [iter=1] AST chunks built count=1 triples=2472606
+[2026-11-07T22:15:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fb279f652181b3932dd021585e106728cc030c66/.complete
+[2026-11-07T22:15:04Z] [iter=1] PHASE END: ast elapsed_s=240 elapsed_min=4.0
+[2026-11-07T22:15:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
